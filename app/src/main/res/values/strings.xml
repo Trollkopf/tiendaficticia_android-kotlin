@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Ejercicio GridView</string>
+    <string name="shop_title">Bienvenido a la tienda</string>
+
+<!--    ITEMS TIENDA    -->
+    <string name="abrigo">Abrigo</string>
+    <string name="botas">Botas</string>
+    <string name="calcetines">Calcetines</string>
+    <string name="camisa">Camisa</string>
+    <string name="gabardina">Gabardina</string>
+    <string name="gorra">Gorra</string>
+    <string name="guantes">Guantes</string>
+    <string name="pantalones">Pantalones</string>
+    <string name="zapatos">Zapatos</string>
+
+<!--    PRECIOS ITEMS   -->
+    <string name="p_abrigo">40,00 €</string>
+    <string name="p_botas">35,00 €</string>
+    <string name="p_calcetines">5,00 €</string>
+    <string name="p_camisa">25,00 €</string>
+    <string name="p_gabardina">50,00 €</string>
+    <string name="p_gorra">10,00 €</string>
+    <string name="p_guantes">15,00 €</string>
+    <string name="p_pantalones">30,00 €</string>
+    <string name="p_zapatos">20,00 €</string>
+
+<!--    OPCIONES CONTEXT MENU    -->
+    <string name="c_m_add">Añadir al Carrito</string>
+    <string name="c_m_delete">Eliminar</string>
+
+</resources>
